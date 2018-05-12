@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+MyForm.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\opencv\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(482): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(815): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(2135): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp(3735): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+LINK : fatal error LNK1561: entry point must be defined
